@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6686400360                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,70 +11,66 @@ presskit_download_link                    : https://emilbaehr.com               
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Chikane                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Elevate your track day experience. Chikane is your personal race engineer, offering precise lap timing, performance analysis, and event management for motorsport enthusiasts
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Ty Mitchell                   
+your_link                                 : tymitchellracing.com              
+your_city                                 : Dallas                                
+email_address                             : ty@chikaneapp.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : ty_mitchell92
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             : 
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Precise Lap Timing description
+    description                           : Accurately track your lap times using GPS technology, providing real-time performance data during your track sessions.
+    fontawesome_icon_name                 : stopwatch
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Performance Analysis
+    description                           : Analyze your driving performance with detailed metrics, including speed, acceleration, and sector times to improve your skills.
+    fontawesome_icon_name                 : chart-line
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Event Management
+    description                           : Easily organize and participate in track day events. Create, join, and manage events all within the app.
+    fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Track Database
+    description                           : Access a comprehensive database of racetracks, including layout information and start/finish line coordinates.
+    fontawesome_icon_name                 : map-marked-alt
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Car Profile Management
+    description                           : Maintain profiles for multiple cars, tracking performance data specific to each vehicle in your garage.
+    fontawesome_icon_name                 : car
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Real-time Leaderboards
+    description                           : Compete with other drivers and view live leaderboards during events, adding a competitive edge to your track day.
+    fontawesome_icon_name                 : trophy
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Session History
+    description                           : Review and analyze your past track sessions, helping you track progress and identify areas for improvement.
+    fontawesome_icon_name                 : history
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : In-App Communication
+    description                           : Stay connected with other drivers through the in-app chat feature, fostering a community of motorsport enthusiasts.
+    fontawesome_icon_name                 : comments
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Video Recording
+    description                           : Capture your track sessions with integrated video recording, synced with your performance data for comprehensive review.
+    fontawesome_icon_name                 : video
 
 
 

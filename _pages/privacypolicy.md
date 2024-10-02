@@ -5,56 +5,58 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+October 1, 2024
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
-
-<br>
+This Privacy Policy describes how Chikane ("we", "our", or "us") collects, uses, and shares your personal information when you use our mobile application (the "App").
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### 1.1 Information you provide to us
+- Account information: When you create an account, we collect your name, email address, and password.
+- Profile information: You may choose to provide additional information such as your location, profile picture, and car details.
+- User-generated content: This includes lap times, track data, and any other information you input while using the App.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### 1.2 Information we collect automatically
+- Usage data: We collect data about how you interact with the App, including features you use and time spent on the App.
+- Device information: We collect information about the device you use to access the App, including device type, operating system, and unique device identifiers.
+- Location data: With your permission, we collect precise location data to provide track-specific features.
 
-<br>
+## 2.0 How We Use Your Information
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+We use the information we collect to:
+- Provide, maintain, and improve the App's functionality.
+- Personalize your experience and deliver content relevant to your interests.
+- Communicate with you about the App, including sending notifications about events or updates.
+- Analyze usage patterns to enhance our service.
+- Ensure the safety and security of the App and its users.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## 3.0 Sharing of Information
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We may share your information in the following circumstances:
+- With other users, as part of the App's social features (e.g., leaderboards).
+- With service providers who perform services on our behalf.
+- If required by law or to protect our rights.
+- In connection with a sale or merger of our company.
 
-<br>
+## 4.0 Your Rights and Choices
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+You have the right to:
+- Access, update, or delete your personal information.
+- Opt-out of marketing communications.
+- Disable location tracking through your device settings.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 5.0 Data Security
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+We implement appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing, accidental loss, destruction, or damage.
 
-<br>
+## 6.0 Changes to This Policy
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
-<br>
+## 7.0 Contact Us
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+If you have any questions about this Privacy Policy, please contact us at:
+- Email: privacy@chikaneapp.com
+- Address: [Your Company Address]
